@@ -1,3 +1,10 @@
+
+git add . 
+git commit -m 'm'
+git push (versturen)
+git pull (ophalen)
+
+
 ## Product visie
 De [[Product visie]] is gericht op het integreren van Matrix in de klant zijn workflow, waarbij de ontwikkeling zich richt op het mogelijk maken van deze integratie.
 
@@ -30,7 +37,7 @@ In mijn (Shahram Omary) persoonlijke situatie zal ik in de toekomst verantwoorde
 De taken die ik algemeen zal uitvoeren zijn als volgt:
 
 **Helpdesk**
-Als [[Helpdesk]] medewerker ben ik verantwoordelijk voor het bieden van eerstelijns ondersteuning aan klanten of medewerkers met betrekking tot technische problemen of vragen. Mijn taken omvatten het beantwoorden van vragen via diverse communicatiekanalen, het analyseren en oplossen van problemen, en het bieden van gebruikersondersteuning voor software en hardware. Ik documenteer ook alle problemen en oplossingen, escaleer complexe problemen naar gespecialiseerde teams en draag bij aan de continue verbetering van de dienstverlening. Verder ben ik betrokken bij het onderhouden en updaten van systemen en bied ik training en advies aan gebruikers om de efficiëntie en effectiviteit van technologische hulpmiddelen te maximaliseren.
+Als [[Helpdesk]] medewerker ben ik verantwoordelijk voor het bieden van eerstelijns ondersteuning aan klanten of medewerkers met betrekking tot technische problemen of vragen. Mijn taken omvatten het beantwoorden van vragen via diverse communicatiekanalen, het analyseren en oplossen van problemen, en het bieden van gebruikersondersteuning voor software en hardware. Ik documenteer ook alle problemen en oplossingen, escaleer complexe problemen naar gespecialiseerde teams en draag bij aan de continue verbetering van de dienstverlening. Verder ben ik betrokken bij het onderhouden en updaten van systemen en bied ik training en advies aan gebruikers om de efficiëntie en effectiviteit van technologische hulpmiddelen te maximaliseren. 
 
 **Sales**
 In mijn rol als sales professional ben ik verantwoordelijk voor het ontwikkelen en onderhouden van klantrelaties om de verkoopdoelstellingen van de organisatie te bereiken. Mijn taken omvatten het identificeren van nieuwe verkoopkansen, het voeren van klantgesprekken, en het presenteren van producten of diensten op een overtuigende manier. Ik verzorg ook het gehele verkoopproces, van eerste contact tot aan de afronding van de verkoop, inclusief het opstellen van offertes en contracten. Daarnaast analyseer ik markttrends en klantbehoeften om verkoopstrategieën te verbeteren en bij te dragen aan productontwikkeling. Ik streef naar uitstekende klanttevredenheid en het opbouwen van langdurige relaties, waarbij ik ook zorg voor effectieve after-sales ondersteuning.
