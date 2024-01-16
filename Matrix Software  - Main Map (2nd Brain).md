@@ -1,10 +1,7 @@
-
-git add . 
+git add .
 git commit -m 'm'
 git push (versturen)
 git pull (ophalen)
-
-
 ## Product visie
 De [[Product visie]] is gericht op het integreren van Matrix in de klant zijn workflow, waarbij de ontwikkeling zich richt op het mogelijk maken van deze integratie.
 
@@ -22,7 +19,6 @@ Een [[Functie beschrijving]], ook wel een functieprofiel genoemd, is een gedetai
 5. **Juridische en compliance-doeleinden**: Een duidelijke functiebeschrijving kan helpen bij het naleven van arbeidswetten en het voorkomen van misverstanden of geschillen over de rol en verantwoordelijkheden van de werknemer.
 
 Een effectieve functiebeschrijving is specifiek, duidelijk en realistisch en wordt regelmatig bijgewerkt om veranderingen in de rol of organisatie te weerspiegelen. %%
-
 
 In mijn (Shahram Omary) persoonlijke situatie zal ik in de toekomst verantwoordelijk zijn voor de sales, waarbij mijn functie tot op heden is omschreven als 'consult'. Het is de bedoeling dat ik na het werven van de benodigde kennis over de software op de sales vlak  zal ontwikkelen tot een productowner of -manager.
 
